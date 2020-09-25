@@ -1,13 +1,43 @@
+/* JS4 */
 .box1{
   /* display: none; */
   background-color: #FF0000;
   height: 200px;
   width: 200px;
 }
-
+/* JS5 */
 .box2{
   display: none;
   background-color: #FF0000;
   height: 200px;
   width: 200px;
+}
+/* JS6 */
+.box3{
+    background-color: #FF0000;
+    height: 200px;
+    width: 200px;
+}
+.box3-ext{
+  border: 10px solid black;
+}
+
+/* JS7 */
+.box4{
+  background-color: #FFF;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+.bg1{
+  background-color: #FFAAAA;
+}
+.bg2{
+  background-color: #FFBBBB;
+}
+.bg3{
+  background-color: #FFCCCC;
+}
+.bg4{
+  background-color: #FFDDDD;
 }
